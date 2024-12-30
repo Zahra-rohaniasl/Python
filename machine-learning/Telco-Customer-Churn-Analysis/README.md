@@ -1,5 +1,3 @@
-Telco Customer Churn Analysis
-Overview
 The Telco Customer Churn dataset provides insights into customer retention for a telecommunications company. Understanding customer churn—when customers decide to stop using a company's service—is essential for identifying potential areas for improvement in customer satisfaction and retention strategies. This analysis explores various features of the dataset and their relationship with customer churn, employing different visualization techniques to highlight patterns and insights.
 Methods Used
 1.	Boxplots - For visualizing the distribution and identifying outliers in continuous variables such as tenure, monthly charges, and total charges.
